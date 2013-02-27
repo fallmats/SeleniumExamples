@@ -1,4 +1,4 @@
-package se.prolore.demo.junit;
+package se.prolore.junit.demo;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

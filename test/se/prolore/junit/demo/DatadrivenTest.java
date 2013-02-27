@@ -1,4 +1,4 @@
-package se.prolore.demo.junit;
+package se.prolore.junit.demo;
 
 
 import static org.junit.Assert.assertEquals;
